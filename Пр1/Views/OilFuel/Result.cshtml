@@ -1,0 +1,37 @@
+﻿@model OilFuelCalculationModel
+
+<h2>Результати розрахунку</h2>
+
+<link rel="stylesheet" href="~/css/site.css" />
+<table class="table">
+    <tr>
+        <th>Вуглець (C)</th>
+        <td>@Model.C.ToString("N2") %</td>
+    </tr>
+    <tr>
+        <th>Водень (H)</th>
+        <td>@Model.H.ToString("N2") %</td>
+    </tr>
+    <tr>
+        <th>Кисень (O)</th>
+        <td>@Model.O.ToString("N2") %</td>
+    </tr>
+    <tr>
+        <th>Сірка (S)</th>
+        <td>@Model.S.ToString("N2") %</td>
+    </tr>
+    <tr>
+        <th>Зола (A)</th>
+        <td>@Model.A.ToString("N2") %</td>
+    </tr>
+    <tr>
+        <th>Ванадій (V)</th>
+        <td>@Model.V.ToString("N2") мг/кг</td>
+    </tr>
+    <tr>
+        <th>Нижча теплота згоряння мазуту (Qr)</th>
+        <td>@Model.Qr.ToString("N2") МДж/кг</td>
+    </tr>
+</table>
+
+<a asp-action="Index" class="btn btn-secondary">Новий розрахунок</a>

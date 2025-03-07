@@ -1,0 +1,27 @@
+﻿@model FuelModel
+
+<h2>Розрахунок складу палива</h2>
+<form asp-action="Calculate" asp-controller="Fuel" method="post">
+    <label>HP (%)</label>
+    <input type="text" asp-for="HP" class="form-control" />
+
+    <label>CP (%)</label>
+    <input type="text" asp-for="CP" class="form-control" />
+
+    <label>SP (%)</label>
+    <input type="text" asp-for="SP" class="form-control" />
+
+    <label>NP (%)</label>
+    <input type="text" asp-for="NP" class="form-control" />
+
+    <label>OP (%)</label>
+    <input type="text" asp-for="OP" class="form-control" />
+
+    <label>WP (%)</label>
+    <input type="text" asp-for="WP" class="form-control" />
+
+    <label>AP (%)</label>
+    <input type="text" asp-for="AP" class="form-control" />
+
+    <button type="submit" class="btn btn-primary mt-3">Розрахувати</button>
+</form>

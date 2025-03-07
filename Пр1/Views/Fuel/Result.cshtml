@@ -1,0 +1,83 @@
+﻿@model FuelCalculationModel
+
+<h2 class="text-center">Результати розрахунків</h2>
+<link rel="stylesheet" href="~/css/site.css" />
+
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>Назва</th>
+            <th>Значення</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>KPC (Суха маса)</td>
+            <td>@Model.KPC.ToString("N2")</td>
+        </tr>
+        <tr>
+            <td>KPГ (Горюча маса)</td>
+            <td>@Model.KPT.ToString("N2")</td>
+        </tr>
+        <tr>
+            <td>Hс</td>
+            <td>@Model.HC.ToString("N2") %</td>
+        </tr>                       
+        <tr>                        
+            <td>Cс</td>             
+            <td>@Model.CC.ToString("N2") %</td>
+        </tr>                       
+        <tr>                        
+            <td>Sс</td>             
+            <td>@Model.SC.ToString("N2") %</td>
+        </tr>                       
+        <tr>                        
+            <td>Nс</td>             
+            <td>@Model.NC.ToString("N3")</td>
+        </tr>
+        <tr>
+            <td>Oс</td>
+            <td>@Model.OC.ToString("N2") %</td>
+        </tr>
+        <tr>
+            <td>Aс</td>
+            <td>@Model.AC.ToString("N2") %</td>
+        </tr>
+        <tr>
+            <td>Hг</td>
+            <td>@Model.HT.ToString("N2") %</td>
+        </tr>
+        <tr>
+            <td>Cг</td>
+            <td>@Model.CT.ToString("N2") %</td>
+        </tr>
+        <tr>
+            <td>Sг</td>
+            <td>@Model.ST.ToString("N2") %</td>
+        </tr>
+        <tr>
+            <td>Nг</td>
+            <td>@Model.NT.ToString("N3")</td>
+        </tr>
+        <tr>
+            <td>Oг</td>
+            <td>@Model.OT.ToString("N2") %</td>
+        </tr>
+        <tr>
+            <td>QPH (Робоча маса)</td>
+            <td>@Model.QPH.ToString("N2") кДж/кг</td>
+        </tr>
+        <tr>
+            <td>QCH (Суха маса)</td>
+            <td>@Model.QCH.ToString("N2") кДж/кг</td>
+        </tr>
+        <tr>
+            <td>QGH (Горюча маса)</td>
+            <td>@Model.QGH.ToString("N2") кДж/кг</td>
+        </tr>
+    </tbody>
+</table>
+
+<div class="text-center">
+    <a asp-action="Index" class="btn btn-primary">Новий розрахунок</a>
+</div>

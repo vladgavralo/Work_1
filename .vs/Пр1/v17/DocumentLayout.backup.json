@@ -1,0 +1,395 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ostap\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\\u0420\u043E\u0431\u043E\u0442\u0438 FreeLance\\Vlad\\\u041F\u04401\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FDD11245-235B-48F6-A561-1AAC9566825D}|\u041F\u04401\\\u041F\u04401.csproj|c:\\users\\ostap\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\\u0440\u043E\u0431\u043E\u0442\u0438 freelance\\vlad\\\u043F\u04401\\\u043F\u04401\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDD11245-235B-48F6-A561-1AAC9566825D}|\u041F\u04401\\\u041F\u04401.csproj|solutionrelative:\u043F\u04401\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDD11245-235B-48F6-A561-1AAC9566825D}|\u041F\u04401\\\u041F\u04401.csproj|c:\\users\\ostap\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\\u0440\u043E\u0431\u043E\u0442\u0438 freelance\\vlad\\\u043F\u04401\\\u043F\u04401\\controllers\\oilfuelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDD11245-235B-48F6-A561-1AAC9566825D}|\u041F\u04401\\\u041F\u04401.csproj|solutionrelative:\u043F\u04401\\controllers\\oilfuelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDD11245-235B-48F6-A561-1AAC9566825D}|\u041F\u04401\\\u041F\u04401.csproj|c:\\users\\ostap\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\\u0440\u043E\u0431\u043E\u0442\u0438 freelance\\vlad\\\u043F\u04401\\\u043F\u04401\\models\\oilfuelmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDD11245-235B-48F6-A561-1AAC9566825D}|\u041F\u04401\\\u041F\u04401.csproj|solutionrelative:\u043F\u04401\\models\\oilfuelmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDD11245-235B-48F6-A561-1AAC9566825D}|\u041F\u04401\\\u041F\u04401.csproj|c:\\users\\ostap\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\\u0440\u043E\u0431\u043E\u0442\u0438 freelance\\vlad\\\u043F\u04401\\\u043F\u04401\\models\\fuelmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDD11245-235B-48F6-A561-1AAC9566825D}|\u041F\u04401\\\u041F\u04401.csproj|solutionrelative:\u043F\u04401\\models\\fuelmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDD11245-235B-48F6-A561-1AAC9566825D}|\u041F\u04401\\\u041F\u04401.csproj|c:\\users\\ostap\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\\u0440\u043E\u0431\u043E\u0442\u0438 freelance\\vlad\\\u043F\u04401\\\u043F\u04401\\service\\fuelcalculationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDD11245-235B-48F6-A561-1AAC9566825D}|\u041F\u04401\\\u041F\u04401.csproj|solutionrelative:\u043F\u04401\\service\\fuelcalculationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDD11245-235B-48F6-A561-1AAC9566825D}|\u041F\u04401\\\u041F\u04401.csproj|c:\\users\\ostap\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\\u0440\u043E\u0431\u043E\u0442\u0438 freelance\\vlad\\\u043F\u04401\\\u043F\u04401\\models\\oilfuelcalculationmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDD11245-235B-48F6-A561-1AAC9566825D}|\u041F\u04401\\\u041F\u04401.csproj|solutionrelative:\u043F\u04401\\models\\oilfuelcalculationmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDD11245-235B-48F6-A561-1AAC9566825D}|\u041F\u04401\\\u041F\u04401.csproj|c:\\users\\ostap\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\\u0440\u043E\u0431\u043E\u0442\u0438 freelance\\vlad\\\u043F\u04401\\\u043F\u04401\\views\\fuel\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FDD11245-235B-48F6-A561-1AAC9566825D}|\u041F\u04401\\\u041F\u04401.csproj|solutionrelative:\u043F\u04401\\views\\fuel\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDD11245-235B-48F6-A561-1AAC9566825D}|\u041F\u04401\\\u041F\u04401.csproj|c:\\users\\ostap\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\\u0440\u043E\u0431\u043E\u0442\u0438 freelance\\vlad\\\u043F\u04401\\\u043F\u04401\\controllers\\fuelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDD11245-235B-48F6-A561-1AAC9566825D}|\u041F\u04401\\\u041F\u04401.csproj|solutionrelative:\u043F\u04401\\controllers\\fuelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDD11245-235B-48F6-A561-1AAC9566825D}|\u041F\u04401\\\u041F\u04401.csproj|c:\\users\\ostap\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\\u0440\u043E\u0431\u043E\u0442\u0438 freelance\\vlad\\\u043F\u04401\\\u043F\u04401\\models\\fuelcalculationmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDD11245-235B-48F6-A561-1AAC9566825D}|\u041F\u04401\\\u041F\u04401.csproj|solutionrelative:\u043F\u04401\\models\\fuelcalculationmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDD11245-235B-48F6-A561-1AAC9566825D}|\u041F\u04401\\\u041F\u04401.csproj|c:\\users\\ostap\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\\u0440\u043E\u0431\u043E\u0442\u0438 freelance\\vlad\\\u043F\u04401\\\u043F\u04401\\views\\oilfuel\\result.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FDD11245-235B-48F6-A561-1AAC9566825D}|\u041F\u04401\\\u041F\u04401.csproj|solutionrelative:\u043F\u04401\\views\\oilfuel\\result.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDD11245-235B-48F6-A561-1AAC9566825D}|\u041F\u04401\\\u041F\u04401.csproj|c:\\users\\ostap\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\\u0440\u043E\u0431\u043E\u0442\u0438 freelance\\vlad\\\u043F\u04401\\\u043F\u04401\\views\\fuel\\result.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FDD11245-235B-48F6-A561-1AAC9566825D}|\u041F\u04401\\\u041F\u04401.csproj|solutionrelative:\u043F\u04401\\views\\fuel\\result.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDD11245-235B-48F6-A561-1AAC9566825D}|\u041F\u04401\\\u041F\u04401.csproj|c:\\users\\ostap\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\\u0440\u043E\u0431\u043E\u0442\u0438 freelance\\vlad\\\u043F\u04401\\\u043F\u04401\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FDD11245-235B-48F6-A561-1AAC9566825D}|\u041F\u04401\\\u041F\u04401.csproj|solutionrelative:\u043F\u04401\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDD11245-235B-48F6-A561-1AAC9566825D}|\u041F\u04401\\\u041F\u04401.csproj|c:\\users\\ostap\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\\u0440\u043E\u0431\u043E\u0442\u0438 freelance\\vlad\\\u043F\u04401\\\u043F\u04401\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FDD11245-235B-48F6-A561-1AAC9566825D}|\u041F\u04401\\\u041F\u04401.csproj|solutionrelative:\u043F\u04401\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDD11245-235B-48F6-A561-1AAC9566825D}|\u041F\u04401\\\u041F\u04401.csproj|c:\\users\\ostap\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\\u0440\u043E\u0431\u043E\u0442\u0438 freelance\\vlad\\\u043F\u04401\\\u043F\u04401\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FDD11245-235B-48F6-A561-1AAC9566825D}|\u041F\u04401\\\u041F\u04401.csproj|solutionrelative:\u043F\u04401\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDD11245-235B-48F6-A561-1AAC9566825D}|\u041F\u04401\\\u041F\u04401.csproj|c:\\users\\ostap\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\\u0440\u043E\u0431\u043E\u0442\u0438 freelance\\vlad\\\u043F\u04401\\\u043F\u04401\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{FDD11245-235B-48F6-A561-1AAC9566825D}|\u041F\u04401\\\u041F\u04401.csproj|solutionrelative:\u043F\u04401\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDD11245-235B-48F6-A561-1AAC9566825D}|\u041F\u04401\\\u041F\u04401.csproj|c:\\users\\ostap\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\\u0440\u043E\u0431\u043E\u0442\u0438 freelance\\vlad\\\u043F\u04401\\\u043F\u04401\\fueldata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDD11245-235B-48F6-A561-1AAC9566825D}|\u041F\u04401\\\u041F\u04401.csproj|solutionrelative:\u043F\u04401\\fueldata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDD11245-235B-48F6-A561-1AAC9566825D}|\u041F\u04401\\\u041F\u04401.csproj|c:\\users\\ostap\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\\u0440\u043E\u0431\u043E\u0442\u0438 freelance\\vlad\\\u043F\u04401\\\u043F\u04401\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FDD11245-235B-48F6-A561-1AAC9566825D}|\u041F\u04401\\\u041F\u04401.csproj|solutionrelative:\u043F\u04401\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDD11245-235B-48F6-A561-1AAC9566825D}|\u041F\u04401\\\u041F\u04401.csproj|c:\\users\\ostap\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\\u0440\u043E\u0431\u043E\u0442\u0438 freelance\\vlad\\\u043F\u04401\\\u043F\u04401\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FDD11245-235B-48F6-A561-1AAC9566825D}|\u041F\u04401\\\u041F\u04401.csproj|solutionrelative:\u043F\u04401\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDD11245-235B-48F6-A561-1AAC9566825D}|\u041F\u04401\\\u041F\u04401.csproj|c:\\users\\ostap\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\\u0440\u043E\u0431\u043E\u0442\u0438 freelance\\vlad\\\u043F\u04401\\\u043F\u04401\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FDD11245-235B-48F6-A561-1AAC9566825D}|\u041F\u04401\\\u041F\u04401.csproj|solutionrelative:\u043F\u04401\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDD11245-235B-48F6-A561-1AAC9566825D}|\u041F\u04401\\\u041F\u04401.csproj|c:\\users\\ostap\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\\u0440\u043E\u0431\u043E\u0442\u0438 freelance\\vlad\\\u043F\u04401\\\u043F\u04401\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FDD11245-235B-48F6-A561-1AAC9566825D}|\u041F\u04401\\\u041F\u04401.csproj|solutionrelative:\u043F\u04401\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDD11245-235B-48F6-A561-1AAC9566825D}|\u041F\u04401\\\u041F\u04401.csproj|c:\\users\\ostap\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\\u0440\u043E\u0431\u043E\u0442\u0438 freelance\\vlad\\\u043F\u04401\\\u043F\u04401\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FDD11245-235B-48F6-A561-1AAC9566825D}|\u041F\u04401\\\u041F\u04401.csproj|solutionrelative:\u043F\u04401\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDD11245-235B-48F6-A561-1AAC9566825D}|\u041F\u04401\\\u041F\u04401.csproj|c:\\users\\ostap\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\\u0440\u043E\u0431\u043E\u0442\u0438 freelance\\vlad\\\u043F\u04401\\\u043F\u04401\\\u043F\u04401.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{FDD11245-235B-48F6-A561-1AAC9566825D}|\u041F\u04401\\\u041F\u04401.csproj|solutionrelative:\u043F\u04401\\\u043F\u04401.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FuelModel.cs",
+              "DocumentMoniker": "C:\\Users\\ostap\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\\u0420\u043E\u0431\u043E\u0442\u0438 FreeLance\\Vlad\\\u041F\u04401\\\u041F\u04401\\Models\\FuelModel.cs",
+              "RelativeDocumentMoniker": "\u041F\u04401\\Models\\FuelModel.cs",
+              "ToolTip": "C:\\Users\\ostap\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\\u0420\u043E\u0431\u043E\u0442\u0438 FreeLance\\Vlad\\\u041F\u04401\\\u041F\u04401\\Models\\FuelModel.cs",
+              "RelativeToolTip": "\u041F\u04401\\Models\\FuelModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T19:37:28.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FuelController.cs",
+              "DocumentMoniker": "C:\\Users\\ostap\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\\u0420\u043E\u0431\u043E\u0442\u0438 FreeLance\\Vlad\\\u041F\u04401\\\u041F\u04401\\Controllers\\FuelController.cs",
+              "RelativeDocumentMoniker": "\u041F\u04401\\Controllers\\FuelController.cs",
+              "ToolTip": "C:\\Users\\ostap\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\\u0420\u043E\u0431\u043E\u0442\u0438 FreeLance\\Vlad\\\u041F\u04401\\\u041F\u04401\\Controllers\\FuelController.cs",
+              "RelativeToolTip": "\u041F\u04401\\Controllers\\FuelController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwB0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T17:05:42.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OilFuelController.cs",
+              "DocumentMoniker": "C:\\Users\\ostap\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\\u0420\u043E\u0431\u043E\u0442\u0438 FreeLance\\Vlad\\\u041F\u04401\\\u041F\u04401\\Controllers\\OilFuelController.cs",
+              "RelativeDocumentMoniker": "\u041F\u04401\\Controllers\\OilFuelController.cs",
+              "ToolTip": "C:\\Users\\ostap\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\\u0420\u043E\u0431\u043E\u0442\u0438 FreeLance\\Vlad\\\u041F\u04401\\\u041F\u04401\\Controllers\\OilFuelController.cs",
+              "RelativeToolTip": "\u041F\u04401\\Controllers\\OilFuelController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T15:50:08.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ostap\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\\u0420\u043E\u0431\u043E\u0442\u0438 FreeLance\\Vlad\\\u041F\u04401\\\u041F\u04401\\Views\\Fuel\\Index.cshtml",
+              "RelativeDocumentMoniker": "\u041F\u04401\\Views\\Fuel\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ostap\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\\u0420\u043E\u0431\u043E\u0442\u0438 FreeLance\\Vlad\\\u041F\u04401\\\u041F\u04401\\Views\\Fuel\\Index.cshtml",
+              "RelativeToolTip": "\u041F\u04401\\Views\\Fuel\\Index.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-27T19:16:06.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OilFuelModel.cs",
+              "DocumentMoniker": "C:\\Users\\ostap\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\\u0420\u043E\u0431\u043E\u0442\u0438 FreeLance\\Vlad\\\u041F\u04401\\\u041F\u04401\\Models\\OilFuelModel.cs",
+              "RelativeDocumentMoniker": "\u041F\u04401\\Models\\OilFuelModel.cs",
+              "ToolTip": "C:\\Users\\ostap\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\\u0420\u043E\u0431\u043E\u0442\u0438 FreeLance\\Vlad\\\u041F\u04401\\\u041F\u04401\\Models\\OilFuelModel.cs*",
+              "RelativeToolTip": "\u041F\u04401\\Models\\OilFuelModel.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T14:57:35.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OilFuelCalculationModel.cs",
+              "DocumentMoniker": "C:\\Users\\ostap\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\\u0420\u043E\u0431\u043E\u0442\u0438 FreeLance\\Vlad\\\u041F\u04401\\\u041F\u04401\\Models\\OilFuelCalculationModel.cs",
+              "RelativeDocumentMoniker": "\u041F\u04401\\Models\\OilFuelCalculationModel.cs",
+              "ToolTip": "C:\\Users\\ostap\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\\u0420\u043E\u0431\u043E\u0442\u0438 FreeLance\\Vlad\\\u041F\u04401\\\u041F\u04401\\Models\\OilFuelCalculationModel.cs",
+              "RelativeToolTip": "\u041F\u04401\\Models\\OilFuelCalculationModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T15:07:09.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FuelCalculationService.cs",
+              "DocumentMoniker": "C:\\Users\\ostap\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\\u0420\u043E\u0431\u043E\u0442\u0438 FreeLance\\Vlad\\\u041F\u04401\\\u041F\u04401\\Service\\FuelCalculationService.cs",
+              "RelativeDocumentMoniker": "\u041F\u04401\\Service\\FuelCalculationService.cs",
+              "ToolTip": "C:\\Users\\ostap\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\\u0420\u043E\u0431\u043E\u0442\u0438 FreeLance\\Vlad\\\u041F\u04401\\\u041F\u04401\\Service\\FuelCalculationService.cs",
+              "RelativeToolTip": "\u041F\u04401\\Service\\FuelCalculationService.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T19:00:05.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ostap\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\\u0420\u043E\u0431\u043E\u0442\u0438 FreeLance\\Vlad\\\u041F\u04401\\\u041F\u04401\\Program.cs",
+              "RelativeDocumentMoniker": "\u041F\u04401\\Program.cs",
+              "ToolTip": "C:\\Users\\ostap\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\\u0420\u043E\u0431\u043E\u0442\u0438 FreeLance\\Vlad\\\u041F\u04401\\\u041F\u04401\\Program.cs",
+              "RelativeToolTip": "\u041F\u04401\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T19:03:01.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FuelCalculationModel.cs",
+              "DocumentMoniker": "C:\\Users\\ostap\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\\u0420\u043E\u0431\u043E\u0442\u0438 FreeLance\\Vlad\\\u041F\u04401\\\u041F\u04401\\Models\\FuelCalculationModel.cs",
+              "RelativeDocumentMoniker": "\u041F\u04401\\Models\\FuelCalculationModel.cs",
+              "ToolTip": "C:\\Users\\ostap\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\\u0420\u043E\u0431\u043E\u0442\u0438 FreeLance\\Vlad\\\u041F\u04401\\\u041F\u04401\\Models\\FuelCalculationModel.cs",
+              "RelativeToolTip": "\u041F\u04401\\Models\\FuelCalculationModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAwAIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T19:00:29.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Result.cshtml",
+              "DocumentMoniker": "C:\\Users\\ostap\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\\u0420\u043E\u0431\u043E\u0442\u0438 FreeLance\\Vlad\\\u041F\u04401\\\u041F\u04401\\Views\\OilFuel\\Result.cshtml",
+              "RelativeDocumentMoniker": "\u041F\u04401\\Views\\OilFuel\\Result.cshtml",
+              "ToolTip": "C:\\Users\\ostap\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\\u0420\u043E\u0431\u043E\u0442\u0438 FreeLance\\Vlad\\\u041F\u04401\\\u041F\u04401\\Views\\OilFuel\\Result.cshtml",
+              "RelativeToolTip": "\u041F\u04401\\Views\\OilFuel\\Result.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAB4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-28T15:14:45.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Result.cshtml",
+              "DocumentMoniker": "C:\\Users\\ostap\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\\u0420\u043E\u0431\u043E\u0442\u0438 FreeLance\\Vlad\\\u041F\u04401\\\u041F\u04401\\Views\\Fuel\\Result.cshtml",
+              "RelativeDocumentMoniker": "\u041F\u04401\\Views\\Fuel\\Result.cshtml",
+              "ToolTip": "C:\\Users\\ostap\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\\u0420\u043E\u0431\u043E\u0442\u0438 FreeLance\\Vlad\\\u041F\u04401\\\u041F\u04401\\Views\\Fuel\\Result.cshtml",
+              "RelativeToolTip": "\u041F\u04401\\Views\\Fuel\\Result.cshtml",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAACMAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-27T19:16:58.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ostap\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\\u0420\u043E\u0431\u043E\u0442\u0438 FreeLance\\Vlad\\\u041F\u04401\\\u041F\u04401\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "\u041F\u04401\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ostap\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\\u0420\u043E\u0431\u043E\u0442\u0438 FreeLance\\Vlad\\\u041F\u04401\\\u041F\u04401\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "\u041F\u04401\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABMAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-28T15:53:56.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\ostap\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\\u0420\u043E\u0431\u043E\u0442\u0438 FreeLance\\Vlad\\\u041F\u04401\\\u041F\u04401\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "\u041F\u04401\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\ostap\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\\u0420\u043E\u0431\u043E\u0442\u0438 FreeLance\\Vlad\\\u041F\u04401\\\u041F\u04401\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "\u041F\u04401\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-28T15:55:21.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\ostap\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\\u0420\u043E\u0431\u043E\u0442\u0438 FreeLance\\Vlad\\\u041F\u04401\\\u041F\u04401\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "\u041F\u04401\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\ostap\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\\u0420\u043E\u0431\u043E\u0442\u0438 FreeLance\\Vlad\\\u041F\u04401\\\u041F\u04401\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "\u041F\u04401\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-28T15:55:24.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\ostap\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\\u0420\u043E\u0431\u043E\u0442\u0438 FreeLance\\Vlad\\\u041F\u04401\\\u041F\u04401\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "\u041F\u04401\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\ostap\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\\u0420\u043E\u0431\u043E\u0442\u0438 FreeLance\\Vlad\\\u041F\u04401\\\u041F\u04401\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "\u041F\u04401\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-02-27T20:10:40.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FuelData.cs",
+              "DocumentMoniker": "C:\\Users\\ostap\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\\u0420\u043E\u0431\u043E\u0442\u0438 FreeLance\\Vlad\\\u041F\u04401\\\u041F\u04401\\FuelData.cs",
+              "RelativeDocumentMoniker": "\u041F\u04401\\FuelData.cs",
+              "ToolTip": "C:\\Users\\ostap\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\\u0420\u043E\u0431\u043E\u0442\u0438 FreeLance\\Vlad\\\u041F\u04401\\\u041F\u04401\\FuelData.cs",
+              "RelativeToolTip": "\u041F\u04401\\FuelData.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T17:24:25.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ostap\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\\u0420\u043E\u0431\u043E\u0442\u0438 FreeLance\\Vlad\\\u041F\u04401\\\u041F\u04401\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "\u041F\u04401\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ostap\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\\u0420\u043E\u0431\u043E\u0442\u0438 FreeLance\\Vlad\\\u041F\u04401\\\u041F\u04401\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "\u041F\u04401\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-27T19:15:01.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\ostap\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\\u0420\u043E\u0431\u043E\u0442\u0438 FreeLance\\Vlad\\\u041F\u04401\\\u041F\u04401\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "\u041F\u04401\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\ostap\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\\u0420\u043E\u0431\u043E\u0442\u0438 FreeLance\\Vlad\\\u041F\u04401\\\u041F\u04401\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "\u041F\u04401\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-27T19:15:05.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\ostap\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\\u0420\u043E\u0431\u043E\u0442\u0438 FreeLance\\Vlad\\\u041F\u04401\\\u041F\u04401\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "\u041F\u04401\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\ostap\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\\u0420\u043E\u0431\u043E\u0442\u0438 FreeLance\\Vlad\\\u041F\u04401\\\u041F\u04401\\appsettings.Development.json",
+              "RelativeToolTip": "\u041F\u04401\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-27T17:03:36.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\ostap\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\\u0420\u043E\u0431\u043E\u0442\u0438 FreeLance\\Vlad\\\u041F\u04401\\\u041F\u04401\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "\u041F\u04401\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\ostap\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\\u0420\u043E\u0431\u043E\u0442\u0438 FreeLance\\Vlad\\\u041F\u04401\\\u041F\u04401\\Properties\\launchSettings.json",
+              "RelativeToolTip": "\u041F\u04401\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-27T16:59:14.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "\u041F\u04401",
+              "DocumentMoniker": "C:\\Users\\ostap\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\\u0420\u043E\u0431\u043E\u0442\u0438 FreeLance\\Vlad\\\u041F\u04401\\\u041F\u04401\\\u041F\u04401.csproj",
+              "RelativeDocumentMoniker": "\u041F\u04401\\\u041F\u04401.csproj",
+              "ToolTip": "C:\\Users\\ostap\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\\u0420\u043E\u0431\u043E\u0442\u0438 FreeLance\\Vlad\\\u041F\u04401\\\u041F\u04401\\\u041F\u04401.csproj",
+              "RelativeToolTip": "\u041F\u04401\\\u041F\u04401.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-27T16:59:12.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ostap\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\\u0420\u043E\u0431\u043E\u0442\u0438 FreeLance\\Vlad\\\u041F\u04401\\\u041F\u04401\\appsettings.json",
+              "RelativeDocumentMoniker": "\u041F\u04401\\appsettings.json",
+              "ToolTip": "C:\\Users\\ostap\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\\u0420\u043E\u0431\u043E\u0442\u0438 FreeLance\\Vlad\\\u041F\u04401\\\u041F\u04401\\appsettings.json",
+              "RelativeToolTip": "\u041F\u04401\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-27T16:59:03.162Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 327,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
